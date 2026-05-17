@@ -10,4 +10,4 @@ PURPOSE OF PROJECT:
 VERSION or DATE: Friday 15 May
 HOW TO START THIS PROJECT:Work through tutorial one video and upload any programs created to this repository
 AUTHORS:Jose Vimal
-USER INSTRUCTIONS:work through all the tutorials and remember 
+USER INSTRUCTIONS:work through all the tutorials and remember to complete any projects done on video
