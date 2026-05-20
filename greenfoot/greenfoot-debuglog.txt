@@ -1,0 +1,170 @@
+Greenfoot run started: Mon May 18 22:17:00 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779139670118: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\Shalom2\greenfoot\import-cache.xml (The system cannot find the file specified)
+====
+
+====
+Greenfoot run started: Mon May 18 22:31:03 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779139904068: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: C:\Users\Shalom2\greenfoot\import-cache.xml (The system cannot find the file specified)
+====
+
+====
+Greenfoot run started: Wed May 20 13:59:28 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779281989223: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Wed May 20 15:37:37 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779287858649: Listening for JDWP connection on address: javadebug
+An unexpected exception occurred:
+bluej.pkgmgr.dependency.Dependency$DependencyNotFoundException: Failed to find 'to' target youwin
+	at bluej.pkgmgr.dependency.Dependency.<init>(Dependency.java:152)
+	at bluej.pkgmgr.dependency.UsesDependency.<init>(UsesDependency.java:55)
+	at bluej.pkgmgr.Package.loadTargets(Package.java:968)
+	at bluej.pkgmgr.Project.<init>(Project.java:377)
+	at bluej.pkgmgr.Project.openProject(Project.java:555)
+	at greenfoot.guifx.GreenfootGuiHandler.tryOpen(GreenfootGuiHandler.java:46)
+	at bluej.Main.processArgs(Main.java:220)
+	at bluej.Main.lambda$new$1(Main.java:166)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+An unexpected exception occurred:
+java.lang.NoClassDefFoundError: youWin (wrong name: youwin)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at bluej.pkgmgr.target.ClassTarget.isJunit4TestClass(ClassTarget.java:588)
+	at bluej.pkgmgr.target.ClassTarget.determineRole(ClassTarget.java:743)
+	at bluej.pkgmgr.target.ClassTarget.analyseAfterCompile(ClassTarget.java:1558)
+	at bluej.pkgmgr.Package$QuietPackageCompileObserver.endCompile(Package.java:2794)
+	at bluej.collect.DataCollectionCompileObserverWrapper.endCompile(DataCollectionCompileObserverWrapper.java:98)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$endCompile$3(EventqueueCompileObserverAdapter.java:99)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$runOnEventQueue$0(EventqueueCompileObserverAdapter.java:58)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+An unexpected exception occurred:
+java.lang.NoClassDefFoundError: youWin (wrong name: youwin)
+	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+	at java.base/java.net.URLClassLoader.defineClass(URLClassLoader.java:524)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:427)
+	at java.base/java.net.URLClassLoader$1.run(URLClassLoader.java:421)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:420)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2676)
+	at bluej.pkgmgr.target.ClassTarget.isJunit5TestClass(ClassTarget.java:661)
+	at bluej.pkgmgr.target.ClassTarget.determineRole(ClassTarget.java:746)
+	at bluej.pkgmgr.target.ClassTarget.analyseAfterCompile(ClassTarget.java:1558)
+	at bluej.pkgmgr.Package$QuietPackageCompileObserver.endCompile(Package.java:2794)
+	at bluej.collect.DataCollectionCompileObserverWrapper.endCompile(DataCollectionCompileObserverWrapper.java:98)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$endCompile$3(EventqueueCompileObserverAdapter.java:99)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$runOnEventQueue$0(EventqueueCompileObserverAdapter.java:58)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+====
+
+====
+Greenfoot run started: Wed May 20 15:41:29 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779288090652: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Wed May 20 16:49:17 BST 2026
+Greenfoot version: 3.9.0
+Build ID: 6c1390e0
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\Shalom2\Intro
+1779292158486: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
